@@ -85,13 +85,13 @@ In this dataset, **no posting time block reliably produces higher engagement**. 
 
 ## Graphs
 
-<img width="990" height="749" alt="engagement_by_block_year" src="https://github.com/user-attachments/assets/7b4e6877-081f-4652-a980-3f3817979e24" />
+<img width="1281" height="701" alt="engagement_by_block_year" src="https://github.com/user-attachments/assets/dd42f39d-bc50-48f8-829f-bb3f107a79e4" />
 
 <img width="1165" height="701" alt="engagement_by_block" src="https://github.com/user-attachments/assets/d486a832-8aba-44e7-9dea-990f8dd7222d" />
 
-<img width="990" height="749" alt="regression_hour_effects" src="https://github.com/user-attachments/assets/17df2ffe-b411-48e9-9621-3251ff116a6c" />
-
 <img width="2083" height="584" alt="hourly_counts_before_after" src="https://github.com/user-attachments/assets/bf4b94a3-c53d-4ab9-ba07-55c73723fb83" />
+
+<img width="1063" height="701" alt="regression_hour_effects" src="https://github.com/user-attachments/assets/e6a84de8-352e-40f5-b8e9-11ffe753d2a5" />
 
 ## Conclusion
 
