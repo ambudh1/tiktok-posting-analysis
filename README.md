@@ -83,6 +83,17 @@ In this dataset, **no posting time block reliably produces higher engagement**. 
 - The whole model explains almost nothing: R-squared = 0.057, adjusted R-squared = -0.004, overall F-test p = 0.527.
 - Creator size (`log_followers`, p = 0.908), video duration (p = 0.291), weekday and year were also not significant.
 
+## Graphs
+
+<img width="2083" height="584" alt="hourly_counts_before_after" src="https://github.com/user-attachments/assets/a1ae3184-7544-4c9f-97d4-ff9135f5bebb" />
+fore_after.png)
+
+<img width="990" height="749" alt="engagement_by_block_year" src="https://github.com/user-attachments/assets/a67e7914-d894-49a1-905a-5c2fc83fca41" />
+
+<img width="1165" height="701" alt="engagement_by_block" src="https://github.com/user-attachments/assets/3b7517cf-c349-4410-8898-bdf3b749d006" />
+
+<img width="990" height="749" alt="regression_hour_effects" src="https://github.com/user-attachments/assets/d40c8dcf-6aab-4cd5-814a-b92b245f77a7" />
+
 ## Conclusion
 
 After removing suspect timestamps and limiting the data to 2022-2025 (264 videos), posting hour showed no statistically reliable relationship with engagement rate. Median engagement was nearly the same in five of the six 4-hour blocks, the one lower block (16-19) was not significantly different, and the best block changed every year. Based on this data, **there is no evidence for a single best time to post**. Creators should not expect posting time alone to meaningfully change engagement, and content and audience likely matter more.
