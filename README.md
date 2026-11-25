@@ -85,13 +85,13 @@ In this dataset, **no posting time block reliably produces higher engagement**. 
 
 ## Graphs
 
-<img width="2083" height="584" alt="hourly_counts_before_after" src="https://github.com/user-attachments/assets/a1ae3184-7544-4c9f-97d4-ff9135f5bebb" />
+<img src="https://github.com/user-attachments/assets/a1ae3184-7544-4c9f-97d4-ff9135f5bebb" alt="Hourly video counts before and after removing duplicate timestamps" width="800">
 
-<img width="990" height="749" alt="engagement_by_block_year" src="https://github.com/user-attachments/assets/a67e7914-d894-49a1-905a-5c2fc83fca41" />
+<img src="https://github.com/user-attachments/assets/3b7517cf-c349-4410-8898-bdf3b749d006" alt="Median engagement rate by 4-hour posting block with video counts" width="600">
 
-<img width="1165" height="701" alt="engagement_by_block" src="https://github.com/user-attachments/assets/3b7517cf-c349-4410-8898-bdf3b749d006" />
+<img src="https://github.com/user-attachments/assets/a67e7914-d894-49a1-905a-5c2fc83fca41" alt="Median engagement rate by posting block for each year, 2022 to 2025" width="600">
 
-<img width="990" height="749" alt="regression_hour_effects" src="https://github.com/user-attachments/assets/d40c8dcf-6aab-4cd5-814a-b92b245f77a7" />
+<img src="https://github.com/user-attachments/assets/d40c8dcf-6aab-4cd5-814a-b92b245f77a7" alt="Adjusted effect of posting time on engagement with 95 percent confidence intervals" width="600">
 
 ## Conclusion
 
